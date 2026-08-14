@@ -36,7 +36,6 @@ namespace Gray.Core
 
                 DrawModel(goproModel, Vector3.Zero, 1.0f, Color.White);
                 DrawGrid(10, 1);
-                DrawPlane(Vector3.Zero, new Vector2(50, 50), Color.Brown);
 
                 EndMode3D();
 
